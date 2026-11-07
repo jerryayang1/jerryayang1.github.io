@@ -22,6 +22,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
+mathjax: true
+
 defaults:
   - scope:
       path: ""
