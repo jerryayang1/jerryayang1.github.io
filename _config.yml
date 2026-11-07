@@ -1,0 +1,31 @@
+title: Your Name
+description: Process engineer | Nanofabrication | Thin films
+remote_theme: mmistakes/minimal-mistakes@master
+minimal_mistakes_skin: "dark"   # air, contrast, dirt, neon, mint, sunrise...
+
+author:
+  name: "Your Name"
+  bio: "Plasma etch & thin-film process development"
+  avatar: "/assets/images/me.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/you"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
