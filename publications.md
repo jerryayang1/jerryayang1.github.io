@@ -7,12 +7,11 @@ mathjax: true
 ---
 
 <style>
-  .publications-list h3 {
+  .page__content h3 {
     font-size: 75%;
   }
 </style>
 
-<div class="publications-list">
 ## Journal articles
 
 ### Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides
@@ -37,7 +36,7 @@ Hoang, L.; Jaikissoon, M.; Köroğlu, Ç.; Zhang, Z.; Bennett, R. K. A.; Song, J
 
 ### Biaxial Strain Transfer in Monolayer MoS$_2$ and WSe$_2$ Transistor Structures
 
-Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K. *ACS Applied Materials \& Interfaces* (2024)
+Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K. *ACS Applied Materials & Interfaces* (2024)
 
 
 ### Biaxial Tensile Strain Enhances Electron Mobility of Monolayer Transition Metal Dichalcogenides
@@ -244,5 +243,3 @@ Peña, T.; Hoang, A. T.; <strong><u>Yang, J. A.</u></strong>; Chaney, J. A.; Fri
 ### Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
 <strong><u>Yang, J. A.</u></strong>; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A..
-
-</div>
