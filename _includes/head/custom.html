@@ -12,3 +12,36 @@
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endif %}
+
+{% if page.permalink == "/pictures/" %}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var hero = document.querySelector(".page__hero--overlay");
+    if (!hero) {
+      return;
+    }
+
+    var images = [
+      "/assets/images/crystal.png",
+      "/assets/images/ebpg1.png",
+      "/assets/images/ebpg2.png",
+      "/assets/images/ebpg3.png",
+      "/assets/images/ebpg4.png",
+      "/assets/images/Lamella_001.png",
+      "/assets/images/Lamella_002.png",
+      "/assets/images/scallops1.png",
+      "/assets/images/scallops2.png",
+      "/assets/images/sidewall.png"
+    ];
+    var index = 0;
+
+    window.setInterval(function () {
+      index = (index + 1) % images.length;
+      hero.style.backgroundImage =
+        "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('" +
+        images[index] +
+        "')";
+    }, 5000);
+  });
+</script>
+{% endif %}

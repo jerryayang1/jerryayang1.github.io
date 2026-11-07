@@ -3,6 +3,9 @@ layout: single
 title: "Cool Pictures"
 permalink: /pictures/
 author_profile: true
+header:
+  overlay_image: /assets/images/crystal.png
+  overlay_filter: 0.5
 ---
 
 ## A small gallery
