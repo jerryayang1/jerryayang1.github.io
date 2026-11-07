@@ -21,14 +21,6 @@ mathjax: true
 ### Two-Dimensional Materials & Microelectronics
 
 
-#### 10. Impact of Isotopic Purification on Synthetic Monolayer MoS$_2$
-
-Peña, T.; Hoang, A. T.; <strong><u>Yang, J. A.</u></strong>; Chaney, J. A.; Fridriksdóttir, Á.; Han, Z.; Wang, J.; Lai, S.; Heinz, T. F.; McIntyre, P. C.; Daniel, D.; Mannix, A. J.; Pop, E.
-
-#### 9. Flexible In-Sensor Computing and Memory with High-Performance Dual-Gate Monolayer Transition Metal Dichalcogenide Transistors
-
-<strong><u>Yang, J. A.</u></strong>; Lee, Y.-M.; Gault, H. F.; Zhang, Z.; Wu, X.; Mannix, A. J.; Pop, E.
-
 #### 8. Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
 <strong><u>Yang, J. A.</u></strong>; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.

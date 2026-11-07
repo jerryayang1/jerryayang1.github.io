@@ -17,10 +17,14 @@ engineering decisions.
 Developing repeatable plasma processes for deep, high-aspect-ratio features
 with attention to profile control, selectivity, and sidewall quality.
 
-
 ### Flexible In-Sensor Computing & Strain Engineering of 2D TMD Transistors
 
 Designing and characterizing deposition processes that produce uniform,
 well-controlled films for nanofabrication workflows.
 
+## Previous projects
+
+### First-Generation/Low-Income Engineering Students and Internships
+
+### LGBTQ+ Engineering Student Experiences
 
