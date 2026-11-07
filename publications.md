@@ -19,6 +19,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>pena2026nanoribbon</code></summary>
 
+{% raw %}
 ```bibtex
 @article{pena2026nanoribbon,
   author  = {Pe{\~n}a, T. and Persson, A. E. O. and Krayev, A. and Fridriksd{\'o}ttir, {\'A}. and Neilson, K. and Zhang, Z. and Hoang, A. T. and Yang, J. A. and Hoang, L. and Song, Y. S. and Mannix, A. J. and McIntyre, P. C. and Pop, E.},
@@ -32,6 +33,7 @@ complete BibTeX record.
   doi     = {10.1038/s41565-026-02161-w}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -42,6 +44,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>krayev2025ters</code></summary>
 
+{% raw %}
 ```bibtex
 @article{krayev2025ters,
   author  = {Krayev, A. and Isotta, E. and Hoang, L. and Yang, J. A. and Neilson, K. and Wang, M. and Haughn, N. and Pop, E. and Mannix, A. J. and Balogun, O. and Wang, C.-F.},
@@ -55,6 +58,7 @@ complete BibTeX record.
   doi     = {10.1021/acsphotonics.4c02133}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -65,6 +69,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>jaikissoon2024strain</code></summary>
 
+{% raw %}
 ```bibtex
 @article{jaikissoon2024strain,
   author  = {Jaikissoon, M. and K{\"o}ro{\u g}lu, {\c C}. and Yang, J. A. and Neilson, K. M. and Saraswat, K. C. and Pop, E.},
@@ -78,6 +83,7 @@ complete BibTeX record.
   doi     = {10.1038/s41928-024-01244-7}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -88,6 +94,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>hoang2024contactstrain</code></summary>
 
+{% raw %}
 ```bibtex
 @article{hoang2024contactstrain,
   author  = {Hoang, L. and Jaikissoon, M. and K{\"o}ro{\u g}lu, {\c C}. and Zhang, Z. and Bennett, R. K. A. and Song, J.-H. and Yang, J. A. and Ko, J.-S. and Brongersma, M. L. and Saraswat, K. C. and Pop, E. and Mannix, A. J.},
@@ -101,6 +108,7 @@ complete BibTeX record.
   doi     = {10.1021/acs.nanolett.4c02616}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -111,6 +119,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>michail2024biaxial</code></summary>
 
+{% raw %}
 ```bibtex
 @article{michail2024biaxial,
   author  = {Michail, A. and Yang, J. A. and Filintoglou, K. and Balakeras, N. and Nattoo, C. A. and Bailey, C. S. and Daus, A. and Parthenios, J. and Pop, E. and Papagelis, K.},
@@ -124,6 +133,7 @@ complete BibTeX record.
   doi     = {10.1021/acsami.4c07216}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -134,6 +144,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024biaxialmobility</code></summary>
 
+{% raw %}
 ```bibtex
 @article{yang2024biaxialmobility,
   author  = {Yang, J. A. and Bennett, R. K. A. and Hoang, L. A. and Zhang, Z. and Thompson, K. J. and Michail, A. and Parthenios, J. and Papagelis, K. and Mannix, A. J. and Pop, E.},
@@ -147,6 +158,7 @@ complete BibTeX record.
   doi     = {10.1021/acsnano.3c08996}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -157,6 +169,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>lin2020buckled</code></summary>
 
+{% raw %}
 ```bibtex
 @article{lin2020buckled,
   author  = {Lin, J.-T. and Shuvra, P. D. and Yang, J. A. and McNamara, S. and Walsh, K. and Alphenaar, B.},
@@ -170,6 +183,7 @@ complete BibTeX record.
   doi     = {10.1088/1361-6439/ab870c}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -180,6 +194,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024counterstorytelling</code></summary>
 
+{% raw %}
 ```bibtex
 @article{yang2024counterstorytelling,
   author  = {Yang, J. A.},
@@ -193,6 +208,7 @@ complete BibTeX record.
   doi     = {10.21061/see.123}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -203,6 +219,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024barbedwire</code></summary>
 
+{% raw %}
 ```bibtex
 @article{yang2024barbedwire,
   author  = {Yang, J. A. and Towles, J. D. and Sheppard, S. D. and Atwood, S. A.},
@@ -216,6 +233,7 @@ complete BibTeX record.
   doi     = {10.1615/JWomenMinorScienEng.2023046383}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -226,6 +244,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2021resistance</code></summary>
 
+{% raw %}
 ```bibtex
 @article{yang2021resistance,
   author  = {Yang, J. A. and Sherard, M. K. and Julien, C. and Borrego, M.},
@@ -239,6 +258,7 @@ complete BibTeX record.
   doi     = {10.1615/JWomenMinorScienEng.2021035089}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -249,6 +269,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2021lgbtqece</code></summary>
 
+{% raw %}
 ```bibtex
 @article{yang2021lgbtqece,
   author  = {Yang, J. A. and Sherard, M. K. and Julien, C. and Borrego, M.},
@@ -262,6 +283,7 @@ complete BibTeX record.
   doi     = {10.1109/TE.2021.3057542}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -274,6 +296,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>bakka2022gradstudents</code></summary>
 
+{% raw %}
 ```bibtex
 @incollection{bakka2022gradstudents,
   author    = {Bakka, B. and Jennings, M. and Yang, J. A.},
@@ -286,6 +309,7 @@ complete BibTeX record.
   doi       = {10.4324/9781003255284-13}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -298,6 +322,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>fultzwaters2026nanorod</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{fultzwaters2026nanorod,
   author    = {Fultz-Waters, S. and He, W. and Alaei, S. and Bryan, J. and Yang, J. A. and Lee, Y. and Suzuki, Y. and Tsai, W. and Pop, E. and Wang, S. X.},
@@ -308,6 +333,7 @@ complete BibTeX record.
   month     = nov
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -318,6 +344,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2026nsrec</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2026nsrec,
   author    = {Yang, J. A. and Pe{\~n}a, T. and Wright, A. and Chaney, J. A. and Hoang, A. T. and Mannix, A. J. and Pop, E. and Daniel, D. and Taggart, J. L. and Stuart, S. C. and Bushmaker, A.},
@@ -328,6 +355,7 @@ complete BibTeX record.
   month     = jul
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -338,6 +366,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>phillips2026ptype</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{phillips2026ptype,
   author    = {Phillips, H. and Pe{\~n}a, T. and Lai, S. and Hoang, L. and Alson, L. and Hoang, A. T. and Yang, J. A. and Mannix, A. J. and Liu, F. and Pop, E.},
@@ -348,6 +377,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -358,6 +388,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>gault2026verticalgate</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{gault2026verticalgate,
   author    = {Gault, H. F. and Yang, J. A. and Bennett, R. K. A. and Pop, E.},
@@ -368,6 +399,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -378,6 +410,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2026memtransistors</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2026memtransistors,
   author    = {Yang, J. A. and Bae, I.-T. and Stempinski, E. and Hoang, A. T. and Zhang, Z. and Mannix, A. J. and Daniel, D. and Pop, E.},
@@ -388,6 +421,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -398,6 +432,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2026flexdualgate</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2026flexdualgate,
   author    = {Yang, J. A. and Zhang, Z. and Mannix, A. J. and Pop, E.},
@@ -408,6 +443,7 @@ complete BibTeX record.
   month     = nov
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -418,6 +454,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>song2025iedm</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{song2025iedm,
   author    = {Song, Y. S. and Su, H. and Pe{\~n}a, T. and Persson, A. E. O. and Yang, K. and Yalon, E. and Bennett, R. K. A. and Neilson, K. M. and Kang, J. and Yang, J. A. and Wong, H.-S. Philip and Wang, S. X. and Pop, E.},
@@ -428,6 +465,7 @@ complete BibTeX record.
   month     = dec
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -438,6 +476,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2025radhardraman</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2025radhardraman,
   author    = {Yang, J. A. and Pe{\~n}a, T. and Wright, A. and Adams, P. and Hoang, A. T. and Taggart, J. and Daniel, D. and Pop, E.},
@@ -448,6 +487,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -458,6 +498,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2025flexws2</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2025flexws2,
   author    = {Yang, J. A. and Zhang, Z. and Mannix, A. J. and Pop, E.},
@@ -468,6 +509,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -478,6 +520,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024ifetc</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2024ifetc,
   author    = {Yang, J. A. and Bora, A. and Daus, A. and Hoang, L. and Zhang, Z. and Mannix, A. J. and Pop, E.},
@@ -488,6 +531,7 @@ complete BibTeX record.
   month     = sep
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -498,6 +542,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>reato2024drc</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{reato2024drc,
   author    = {Reato, E. and Palacios, P. A. and Yang, J. A. and Wahid, S. and Jaikissoon, M. and Ko, J.-S. and Daus, A. and Saeed, M. and Saraswat, K. C. and Negra, R. and Pop, E. and Lemme, M. C.},
@@ -508,6 +553,7 @@ complete BibTeX record.
   month     = jun
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -518,6 +564,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024chargepumping</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2024chargepumping,
   author    = {Yang, J. A. and Reato, E. and Knobloch, T. and Ko, J.-S. and Zhang, Z. and Mannix, A. J. and Saraswat, K. and Grasser, T. and Lemme, M. and Pop, E.},
@@ -528,6 +575,7 @@ complete BibTeX record.
   month     = jun
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -538,6 +586,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024raman</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2024raman,
   author    = {Yang, J. A. and Hoang, L. and Pe{\~n}a, T. and Zhang, Z. and Mannix, A. J. and Pop, E.},
@@ -548,6 +597,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -558,6 +608,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2023mrsfall</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2023mrsfall,
   author    = {Yang, J. A. and Bennett, R. K. A. and Hoang, L. and Zhang, Z. and Thompson, K. J. and Mannix, A. J. and Pop, E.},
@@ -568,6 +619,7 @@ complete BibTeX record.
   month     = nov
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -578,6 +630,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2023calus</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2023calus,
   author    = {Yang, J. A. and Zhang, Z. and Hoang, L. and Mannix, A. J. and Pop, E.},
@@ -588,6 +641,7 @@ complete BibTeX record.
   month     = sep
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -598,6 +652,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>neilson2023aps</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{neilson2023aps,
   author    = {Neilson, K. M. and Tie, M. and Ko, J.-S. and Jaikissoon, M. and Yang, J. A. and Chen, R. and Majumdar, A. and Saraswat, K. C. and Heinz, T. F. and Pop, E.},
@@ -609,6 +664,7 @@ complete BibTeX record.
   url       = {https://meetings.aps.org/Meeting/MAR23/Session/D34.14}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -619,6 +675,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>jaikissoon2022drc</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{jaikissoon2022drc,
   author    = {Jaikissoon, M. and Yang, J. A. and Neilson, K. M. and Pop, E. and Saraswat, K. C.},
@@ -630,6 +687,7 @@ complete BibTeX record.
   doi       = {10.1109/DRC55272.2022.9855790}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -640,6 +698,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>jaikissoon2022mrs</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{jaikissoon2022mrs,
   author    = {Jaikissoon, M. and Yang, J. A. and Pop, E. and Saraswat, K.},
@@ -650,6 +709,7 @@ complete BibTeX record.
   month     = may
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -660,6 +720,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2022wse2raman</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2022wse2raman,
   author    = {Yang, J. A. and Michail, A. and Thompson, K. J. and Nattoo, C. A. and Bailey, C. S. and Parthenios, J. and Daus, A. and Papagelis, K. and Pop, E.},
@@ -670,6 +731,7 @@ complete BibTeX record.
   month     = may
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -680,6 +742,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2019techconnect</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2019techconnect,
   author    = {Yang, J. A. and Shuvra, P. D. and McNamara, S. and Alphenaar, B. and Walsh, K.},
@@ -691,6 +754,7 @@ complete BibTeX record.
   url       = {https://briefs.techconnect.org/papers/a-piezoresistive-mems-memory-device-using-a-buckled-beam/}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -701,6 +765,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2026asee</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2026asee,
   author    = {Yang, J. A. and Pe{\~n}a, T. and Kommera, S. and Wong, H.-S. P.},
@@ -712,6 +777,7 @@ complete BibTeX record.
   note      = {Paper accepted}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -722,6 +788,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2024queerresistance</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2024queerresistance,
   author    = {Yang, J. A. and Pop, E.},
@@ -732,6 +799,7 @@ complete BibTeX record.
   month     = apr
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -742,6 +810,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2023overrepresented</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2023overrepresented,
   author    = {Yang, J. A. and {antonio}, {a. l.} and Sheppard, S. D.},
@@ -753,6 +822,7 @@ complete BibTeX record.
   url       = {https://peer.asee.org/43837}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -763,6 +833,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2023wipintersectionality</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2023wipintersectionality,
   author    = {Yang, J. A.},
@@ -774,6 +845,7 @@ complete BibTeX record.
   url       = {https://peer.asee.org/44423}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -784,6 +856,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2022balancing</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2022balancing,
   author    = {Yang, J. A. and Nattoo, C. A.},
@@ -795,6 +868,7 @@ complete BibTeX record.
   url       = {https://peer.asee.org/41789}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -805,6 +879,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2022internships</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2022internships,
   author    = {Yang, J. A. and Towles, J. D. and Sheppard, S. D. and Atwood, S. A.},
@@ -816,6 +891,7 @@ complete BibTeX record.
   url       = {https://strategy.asee.org/40755}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -826,6 +902,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>chou2022conecd</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{chou2022conecd,
   author    = {Chou, V. X.-W. and Yang, J. A. and Bakka, B. and Borrego, M.},
@@ -837,6 +914,7 @@ complete BibTeX record.
   url       = {https://peer.asee.org/39148}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -847,6 +925,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>bakka2021panel</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{bakka2021panel,
   author    = {Bakka, B. and Jennings, M. and Rodriguez-Simmonds, H. E. and Clancy, S. and Pasek, A. and Yang, J. A.},
@@ -857,6 +936,7 @@ complete BibTeX record.
   month     = jun
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -867,6 +947,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2021culturalscripts</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2021culturalscripts,
   author    = {Yang, J. A. and Boklage, A. and Sherard, M. K. and Julien, C. and Borrego, M.},
@@ -878,6 +959,7 @@ complete BibTeX record.
   url       = {https://peer.asee.org/36078}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -888,6 +970,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang2020fyee</code></summary>
 
+{% raw %}
 ```bibtex
 @inproceedings{yang2020fyee,
   author    = {Yang, J. A. and Telang, N. K.},
@@ -899,6 +982,7 @@ complete BibTeX record.
   url       = {https://strategy.asee.org/35774}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -911,6 +995,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>pena_prep_isotopic</code></summary>
 
+{% raw %}
 ```bibtex
 @unpublished{pena_prep_isotopic,
   author  = {Pe{\~n}a, T. and Hoang, A. T. and Yang, J. A. and Chaney, J. A. and Fridriksd{\'o}ttir, {\'A}. and Han, Z. and Wang, J. and Lai, S. and Heinz, T. F. and McIntyre, P. C. and Daniel, D. and Mannix, A. J. and Pop, E.},
@@ -918,6 +1003,7 @@ complete BibTeX record.
   note    = {Manuscript in preparation}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -928,6 +1014,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang_prep_insensor</code></summary>
 
+{% raw %}
 ```bibtex
 @unpublished{yang_prep_insensor,
   author  = {Yang, J. A. and Lee, Y.-M. and Gault, H. F. and Zhang, Z. and Wu, X. and Mannix, A. J. and Pop, E.},
@@ -935,6 +1022,7 @@ complete BibTeX record.
   note    = {Manuscript in preparation}
 }
 ```
+{% endraw %}
 
 </details>
 
@@ -945,6 +1033,7 @@ complete BibTeX record.
 <details>
 <summary>BibTeX: <code>yang_sub_gamma</code></summary>
 
+{% raw %}
 ```bibtex
 @unpublished{yang_sub_gamma,
   author  = {Yang, J. A. and Pe{\~n}a, T. and Wright, A. and Chaney, J. A. and Lee, Y.-M. and Lan, H.-Y. and Hoang, A. T. and Mannix, A. J. and Pop, E. and Daniel, D. and Taggart, J. L. and Stuart, S. C. and Bushmaker, A.},
@@ -952,5 +1041,6 @@ complete BibTeX record.
   note    = {Manuscript submitted}
 }
 ```
+{% endraw %}
 
 </details>
