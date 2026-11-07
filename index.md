@@ -7,6 +7,8 @@ header:
 author_profile: true
 ---
 
+{% include sidebar.html %}
+
 ## About me
 
 Dr. Jerry A. Yang received his PhD in Electrical Engineering and Master's in

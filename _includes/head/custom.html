@@ -13,6 +13,26 @@
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endif %}
 
+<style>
+  .layout--splash .page__content > .sidebar {
+    float: left;
+    width: 220px;
+    margin: 0 2rem 1rem 0;
+  }
+
+  .layout--splash .page__content > .sidebar:after {
+    display: none;
+  }
+
+  @media (max-width: 64em) {
+    .layout--splash .page__content > .sidebar {
+      float: none;
+      width: auto;
+      margin: 0 auto 2rem;
+    }
+  }
+</style>
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     var hero = document.querySelector(".page__hero--overlay");
