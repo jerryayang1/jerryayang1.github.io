@@ -6,7 +6,7 @@ minimal_mistakes_skin: "dark"   # air, contrast, dirt, neon, mint, sunrise...
 author:
   name: "Jerry A. Yang"
   bio: "Plasma etch & thin-film process development"
-  avatar: "/assets/images/me.jpg"
+  avatar: "/assets/images/JerryYang.png"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
