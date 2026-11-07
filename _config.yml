@@ -1,10 +1,10 @@
-title: Your Name
+title: Jerry A. Yang
 description: Process engineer | Nanofabrication | Thin films
 remote_theme: mmistakes/minimal-mistakes@master
 minimal_mistakes_skin: "dark"   # air, contrast, dirt, neon, mint, sunrise...
 
 author:
-  name: "Your Name"
+  name: "Jerry A. Yang"
   bio: "Plasma etch & thin-film process development"
   avatar: "/assets/images/me.jpg"
   links:
