@@ -4,6 +4,7 @@ title: "Jerry A. Yang"
 header:
   overlay_image: /assets/images/hero.jpg
   overlay_filter: 0.5
+author_profile: true
 ---
 
 ## About me
