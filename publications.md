@@ -10,68 +10,72 @@ mathjax: true
   .page__content h3 {
     font-size: 75%;
   }
+
+  .page__content h3 + p {
+    font-size: 65%;
+  }
 </style>
 
 ## Journal articles
 
-### Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides
+### [Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides](https://doi.org/10.1038/s41565-026-02161-w)
 
 Peña, T.; Persson, A. E. O.; Krayev, A.; Fridriksdóttir, Á.; Neilson, K.; Zhang, Z.; Hoang, A. T.; <strong><u>Yang, J. A.</u></strong>; Hoang, L.; Song, Y. S.; Mannix, A. J.; McIntyre, P. C.; Pop, E. *Nature Nanotechnology* (2026)
 
 
-### Excitation Laser Energy Dependence of the Gap-Mode TERS Spectra of WS$_2$ and MoS$_2$ on Silver
+### [Excitation Laser Energy Dependence of the Gap-Mode TERS Spectra of WS$_2$ and MoS$_2$ on Silver](https://doi.org/10.1021/acsphotonics.4c02133)
 
 Krayev, A.; Isotta, E.; Hoang, L.; <strong><u>Yang, J. A.</u></strong>; Neilson, K.; Wang, M.; Haughn, N.; Pop, E.; Mannix, A. J.; Balogun, O.; Wang, C.-F. *ACS Photonics* (2025)
 
 
-### CMOS-compatible Strain Engineering of Monolayer Semiconductor Transistors
+### [CMOS-compatible Strain Engineering of Monolayer Semiconductor Transistors](https://doi.org/10.1038/s41928-024-01244-7)
 
 Jaikissoon, M.; Köroğlu, Ç.; <strong><u>Yang, J. A.</u></strong>; Neilson, K. M.; Saraswat, K. C.; Pop, E. *Nature Electronics* (2024)
 
 
-### Understanding the Impact of Contact-Induced Strain on the Electrical Performance of Monolayer WS$_2$ Transistors
+### [Understanding the Impact of Contact-Induced Strain on the Electrical Performance of Monolayer WS$_2$ Transistors](https://doi.org/10.1021/acs.nanolett.4c02616)
 
 Hoang, L.; Jaikissoon, M.; Köroğlu, Ç.; Zhang, Z.; Bennett, R. K. A.; Song, J.-H.; <strong><u>Yang, J. A.</u></strong>; Ko, J.-S.; Brongersma, M. L.; Saraswat, K. C.; Pop, E.; Mannix, A. J. *Nano Letters* (2024)
 
 
-### Biaxial Strain Transfer in Monolayer MoS$_2$ and WSe$_2$ Transistor Structures
+### [Biaxial Strain Transfer in Monolayer MoS$_2$ and WSe$_2$ Transistor Structures](https://doi.org/10.1021/acsami.4c07216)
 
 Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K. *ACS Applied Materials & Interfaces* (2024)
 
 
-### Biaxial Tensile Strain Enhances Electron Mobility of Monolayer Transition Metal Dichalcogenides
+### [Biaxial Tensile Strain Enhances Electron Mobility of Monolayer Transition Metal Dichalcogenides](https://doi.org/10.1021/acsnano.3c08996)
 
 <strong><u>Yang, J. A.</u></strong>; Bennett, R. K. A.; Hoang, L. A.; Zhang, Z.; Thompson, K. J.; Michail, A.; Parthenios, J.; Papagelis, K.; Mannix, A. J.; Pop, E. *ACS Nano* (2024)
 
 
-### Buckled Beam Mechanical Memory using an Asymmetric Piezoresistor for Readout
+### [Buckled Beam Mechanical Memory using an Asymmetric Piezoresistor for Readout](https://doi.org/10.1088/1361-6439/ab870c)
 
 Lin, J.-T.; Shuvra, P. D.; <strong><u>Yang, J. A.</u></strong>; McNamara, S.; Walsh, K.; Alphenaar, B. *Journal of Micromechanics and Microengineering* (2020)
 
 
-### Engineer, Asian, and Gay AF: Counterstorytelling as Means for Methodological Activism and Intersectional Healing in Engineering Education
+### [Engineer, Asian, and Gay AF: Counterstorytelling as Means for Methodological Activism and Intersectional Healing in Engineering Education](https://doi.org/10.21061/see.123)
 
 <strong><u>Yang, J. A.</u></strong>. *Studies in Engineering Education* (2024)
 
 
-### ``Barbed-Wire Boundaries'': Hidden Curriculum, First-Generation and Low-Income Engineering Students, and Internship Acquisition
+### [``Barbed-Wire Boundaries'': Hidden Curriculum, First-Generation and Low-Income Engineering Students, and Internship Acquisition](https://doi.org/10.1615/JWomenMinorScienEng.2023046383)
 
 <strong><u>Yang, J. A.</u></strong>; Towles, J. D.; Sheppard, S. D.; Atwood, S. A. *Journal of Women and Minorities in Science and Engineering* (2024)
 
 
-### Resistance and Community-building in LGBTQ+ Engineering Students
+### [Resistance and Community-building in LGBTQ+ Engineering Students](https://doi.org/10.1615/JWomenMinorScienEng.2021035089)
 
 <strong><u>Yang, J. A.</u></strong>; Sherard, M. K.; Julien, C.; Borrego, M. *Journal of Women and Minorities in Science and Engineering* (2021)
 
 
-### LGBTQ+ in ECE: Culture and (Non)visibility
+### [LGBTQ+ in ECE: Culture and (Non)visibility](https://doi.org/10.1109/TE.2021.3057542)
 
 <strong><u>Yang, J. A.</u></strong>; Sherard, M. K.; Julien, C.; Borrego, M. *IEEE Transactions on Education* (2021)
 
 
 ## Book chapters
 
-### Today's Grad Students, Tomorrow's Faculty: LGBTQIA+ Graduate Student Experiences Navigating the Insider/Outsider Paradox in STEM
+### [Today's Grad Students, Tomorrow's Faculty: LGBTQIA+ Graduate Student Experiences Navigating the Insider/Outsider Paradox in STEM](https://doi.org/10.4324/9781003255284-13)
 
 Bakka, B.; Jennings, M.; <strong><u>Yang, J. A.</u></strong>. *Queerness as Doing in Higher Education* (2022)
 
@@ -153,12 +157,12 @@ Reato, E.; Palacios, P. A.; <strong><u>Yang, J. A.</u></strong>; Wahid, S.; Jaik
 <strong><u>Yang, J. A.</u></strong>; Zhang, Z.; Hoang, L.; Mannix, A. J.; Pop, E. *California-US Government Workshop on 2D Materials* (2023)
 
 
-### Lithographic Damage to Two-Dimensional Materials Probed by Photoluminescence and Raman Spectroscopy
+### [Lithographic Damage to Two-Dimensional Materials Probed by Photoluminescence and Raman Spectroscopy](https://meetings.aps.org/Meeting/MAR23/Session/D34.14)
 
 Neilson, K. M.; Tie, M.; Ko, J.-S.; Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Chen, R.; Majumdar, A.; Saraswat, K. C.; Heinz, T. F.; Pop, E. *American Physical Society March Meeting* (2023)
 
 
-### Mobility Enhancement of Monolayer MoS$_2$ Transistors using Tensile-Stressed Silicon Nitride Capping Layers
+### [Mobility Enhancement of Monolayer MoS$_2$ Transistors using Tensile-Stressed Silicon Nitride Capping Layers](https://doi.org/10.1109/DRC55272.2022.9855790)
 
 Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Neilson, K. M.; Pop, E.; Saraswat, K. C. *IEEE Device Research Conference (DRC)* (2022)
 
@@ -173,7 +177,7 @@ Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Pop, E.; Saraswat, K. *MRS 
 <strong><u>Yang, J. A.</u></strong>; Michail, A.; Thompson, K. J.; Nattoo, C. A.; Bailey, C. S.; Parthenios, J.; Daus, A.; Papagelis, K.; Pop, E. *MRS Spring Meeting and Exhibit* (2022)
 
 
-### A Piezoresistive MEMS Memory Device using a Buckled Beam
+### [A Piezoresistive MEMS Memory Device using a Buckled Beam](https://briefs.techconnect.org/papers/a-piezoresistive-mems-memory-device-using-a-buckled-beam/)
 
 <strong><u>Yang, J. A.</u></strong>; Shuvra, P. D.; McNamara, S.; Alphenaar, B.; Walsh, K. *TechConnect Briefs: Proceedings of the 2019 TechConnect World Innovation Conference and Expo* (2019)
 
@@ -188,27 +192,27 @@ Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Pop, E.; Saraswat, K. *MRS 
 <strong><u>Yang, J. A.</u></strong>; Pop, E. *MRS Spring Meeting and Exhibit* (2024)
 
 
-### Overrepresented $\neq$ Not-Marginalized: Unpacking the Racialization of Asians and Asian-Americans in Engineering Education
+### [Overrepresented $\neq$ Not-Marginalized: Unpacking the Racialization of Asians and Asian-Americans in Engineering Education](https://peer.asee.org/43837)
 
 <strong><u>Yang, J. A.</u></strong>; antonio, a. l.; Sheppard, S. D. *2023 ASEE Annual Conference and Exposition* (2023)
 
 
-### Work-In-Progress: Intersectionality, (Re)Defined: A Scoping Review of Intersectionality in the Journal of Engineering Education
+### [Work-In-Progress: Intersectionality, (Re)Defined: A Scoping Review of Intersectionality in the Journal of Engineering Education](https://peer.asee.org/44423)
 
 <strong><u>Yang, J. A.</u></strong>. *2023 ASEE Annual Conference and Exposition* (2023)
 
 
-### Balancing Social, Personal, and Work Responsibilities for Minoritized Doctoral Students in Engineering
+### [Balancing Social, Personal, and Work Responsibilities for Minoritized Doctoral Students in Engineering](https://peer.asee.org/41789)
 
 <strong><u>Yang, J. A.</u></strong>; Nattoo, C. A. *2022 ASEE Annual Conference and Exposition* (2022)
 
 
-### Internships' Impact on Recognition for First-Generation and/or Low-Income Students
+### [Internships' Impact on Recognition for First-Generation and/or Low-Income Students](https://strategy.asee.org/40755)
 
 <strong><u>Yang, J. A.</u></strong>; Towles, J. D.; Sheppard, S. D.; Atwood, S. A. *2022 ASEE Annual Conference and Exposition* (2022)
 
 
-### Transformational Resistance for Multiple-Marginalized LGBTQIA+ Students with Incongruent Identity Development
+### [Transformational Resistance for Multiple-Marginalized LGBTQIA+ Students with Incongruent Identity Development](https://peer.asee.org/39148)
 
 Chou, V. X.-W.; <strong><u>Yang, J. A.</u></strong>; Bakka, B.; Borrego, M. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2022)
 
@@ -218,12 +222,12 @@ Chou, V. X.-W.; <strong><u>Yang, J. A.</u></strong>; Bakka, B.; Borrego, M. *Col
 Bakka, B.; Jennings, M.; Rodriguez-Simmonds, H. E.; Clancy, S.; Pasek, A.; <strong><u>Yang, J. A.</u></strong>. *ASEE Annual Conference and Exposition* (2021)
 
 
-### Cultural Scripts, Space, and Identity: Perspectives of Two LGBTQ+ Engineering Students on Inclusive Spaces
+### [Cultural Scripts, Space, and Identity: Perspectives of Two LGBTQ+ Engineering Students on Inclusive Spaces](https://peer.asee.org/36078)
 
 <strong><u>Yang, J. A.</u></strong>; Boklage, A.; Sherard, M. K.; Julien, C.; Borrego, M. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2021)
 
 
-### Increasing Student Understanding of Diversity/Inclusion Issues in a First-Year Engineering Classroom
+### [Increasing Student Understanding of Diversity/Inclusion Issues in a First-Year Engineering Classroom](https://strategy.asee.org/35774)
 
 <strong><u>Yang, J. A.</u></strong>; Telang, N. K. *Proceedings of the First-Year Engineering Experience (FYEE) Conference* (2020)
 
