@@ -14,21 +14,55 @@
 {% endif %}
 
 <style>
+  .page__content {
+    overflow-wrap: anywhere;
+  }
+
+  .page__content img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .layout--splash .page__content {
+    position: relative;
+  }
+
   .layout--splash .page__content > .sidebar {
-    float: left;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 220px;
-    margin: 0 2rem 1rem 0;
+    margin: 0;
   }
 
   .layout--splash .page__content > .sidebar:after {
     display: none;
   }
 
+  .layout--splash .page__content > :not(.sidebar) {
+    margin-left: 260px;
+  }
+
   @media (max-width: 64em) {
     .layout--splash .page__content > .sidebar {
-      float: none;
-      width: auto;
+      position: static;
+      width: 100%;
+      max-width: 220px;
       margin: 0 auto 2rem;
+    }
+
+    .layout--splash .page__content > :not(.sidebar) {
+      margin-left: 0;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .layout--splash .page__content > .sidebar {
+      max-width: 180px;
+    }
+
+    .page__content {
+      font-size: 0.95rem;
     }
   }
 </style>
