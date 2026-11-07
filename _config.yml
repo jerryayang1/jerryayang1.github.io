@@ -16,7 +16,13 @@ author:
       url: "https://github.com/yourusername"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/you"
+      url: "https://www.linkedin.com/in/jerry-a-yang1"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-5521-8523"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=qyYPd5QAAAAJ"
 
 plugins:
   - jekyll-include-cache
