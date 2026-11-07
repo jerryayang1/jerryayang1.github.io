@@ -14,7 +14,7 @@ complete BibTeX record.
 
 ### Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides
 
-**Pe{\~n}a, T.; Persson, A. E. O.; Krayev, A.; Fridriksd{\'o}ttir, {\'A}.; Neilson, K.; Zhang, Z.; Hoang, A. T.; Yang, J. A.; Hoang, L.; Song, Y. S.; Mannix, A. J.; McIntyre, P. C.; Pop, E.**. *Nature Nanotechnology* (2026).
+**Peña, T.; Persson, A. E. O.; Krayev, A.; Fridriksdóttir, Á.; Neilson, K.; Zhang, Z.; Hoang, A. T.; Yang, J. A.; Hoang, L.; Song, Y. S.; Mannix, A. J.; McIntyre, P. C.; Pop, E.**. *Nature Nanotechnology* (2026)
 
 <details>
 <summary>BibTeX: <code>pena2026nanoribbon</code></summary>
@@ -39,7 +39,7 @@ complete BibTeX record.
 
 ### Excitation Laser Energy Dependence of the Gap-Mode TERS Spectra of WS$_2$ and MoS$_2$ on Silver
 
-**Krayev, A.; Isotta, E.; Hoang, L.; Yang, J. A.; Neilson, K.; Wang, M.; Haughn, N.; Pop, E.; Mannix, A. J.; Balogun, O.; Wang, C.-F.**. *ACS Photonics* (2025).
+**Krayev, A.; Isotta, E.; Hoang, L.; Yang, J. A.; Neilson, K.; Wang, M.; Haughn, N.; Pop, E.; Mannix, A. J.; Balogun, O.; Wang, C.-F.**. *ACS Photonics* (2025)
 
 <details>
 <summary>BibTeX: <code>krayev2025ters</code></summary>
@@ -64,7 +64,7 @@ complete BibTeX record.
 
 ### CMOS-compatible Strain Engineering of Monolayer Semiconductor Transistors
 
-**Jaikissoon, M.; K{\"o}ro{\u g}lu, {\c C}.; Yang, J. A.; Neilson, K. M.; Saraswat, K. C.; Pop, E.**. *Nature Electronics* (2024).
+**Jaikissoon, M.; Köroğlu, Ç.; Yang, J. A.; Neilson, K. M.; Saraswat, K. C.; Pop, E.**. *Nature Electronics* (2024)
 
 <details>
 <summary>BibTeX: <code>jaikissoon2024strain</code></summary>
@@ -89,7 +89,7 @@ complete BibTeX record.
 
 ### Understanding the Impact of Contact-Induced Strain on the Electrical Performance of Monolayer WS$_2$ Transistors
 
-**Hoang, L.; Jaikissoon, M.; K{\"o}ro{\u g}lu, {\c C}.; Zhang, Z.; Bennett, R. K. A.; Song, J.-H.; Yang, J. A.; Ko, J.-S.; Brongersma, M. L.; Saraswat, K. C.; Pop, E.; Mannix, A. J.**. *Nano Letters* (2024).
+**Hoang, L.; Jaikissoon, M.; Köroğlu, Ç.; Zhang, Z.; Bennett, R. K. A.; Song, J.-H.; Yang, J. A.; Ko, J.-S.; Brongersma, M. L.; Saraswat, K. C.; Pop, E.; Mannix, A. J.**. *Nano Letters* (2024)
 
 <details>
 <summary>BibTeX: <code>hoang2024contactstrain</code></summary>
@@ -114,7 +114,7 @@ complete BibTeX record.
 
 ### Biaxial Strain Transfer in Monolayer MoS$_2$ and WSe$_2$ Transistor Structures
 
-**Michail, A.; Yang, J. A.; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K.**. *ACS Applied Materials \& Interfaces* (2024).
+**Michail, A.; Yang, J. A.; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K.**. *ACS Applied Materials \& Interfaces* (2024)
 
 <details>
 <summary>BibTeX: <code>michail2024biaxial</code></summary>
@@ -139,7 +139,7 @@ complete BibTeX record.
 
 ### Biaxial Tensile Strain Enhances Electron Mobility of Monolayer Transition Metal Dichalcogenides
 
-**Yang, J. A.; Bennett, R. K. A.; Hoang, L. A.; Zhang, Z.; Thompson, K. J.; Michail, A.; Parthenios, J.; Papagelis, K.; Mannix, A. J.; Pop, E.**. *ACS Nano* (2024).
+**Yang, J. A.; Bennett, R. K. A.; Hoang, L. A.; Zhang, Z.; Thompson, K. J.; Michail, A.; Parthenios, J.; Papagelis, K.; Mannix, A. J.; Pop, E.**. *ACS Nano* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024biaxialmobility</code></summary>
@@ -164,7 +164,7 @@ complete BibTeX record.
 
 ### Buckled Beam Mechanical Memory using an Asymmetric Piezoresistor for Readout
 
-**Lin, J.-T.; Shuvra, P. D.; Yang, J. A.; McNamara, S.; Walsh, K.; Alphenaar, B.**. *Journal of Micromechanics and Microengineering* (2020).
+**Lin, J.-T.; Shuvra, P. D.; Yang, J. A.; McNamara, S.; Walsh, K.; Alphenaar, B.**. *Journal of Micromechanics and Microengineering* (2020)
 
 <details>
 <summary>BibTeX: <code>lin2020buckled</code></summary>
@@ -189,7 +189,7 @@ complete BibTeX record.
 
 ### Engineer, Asian, and Gay AF: Counterstorytelling as Means for Methodological Activism and Intersectional Healing in Engineering Education
 
-**Yang, J. A.**. *Studies in Engineering Education* (2024).
+**Yang, J. A.**. *Studies in Engineering Education* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024counterstorytelling</code></summary>
@@ -214,7 +214,7 @@ complete BibTeX record.
 
 ### ``Barbed-Wire Boundaries'': Hidden Curriculum, First-Generation and Low-Income Engineering Students, and Internship Acquisition
 
-**Yang, J. A.; Towles, J. D.; Sheppard, S. D.; Atwood, S. A.**. *Journal of Women and Minorities in Science and Engineering* (2024).
+**Yang, J. A.; Towles, J. D.; Sheppard, S. D.; Atwood, S. A.**. *Journal of Women and Minorities in Science and Engineering* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024barbedwire</code></summary>
@@ -239,7 +239,7 @@ complete BibTeX record.
 
 ### Resistance and Community-building in LGBTQ+ Engineering Students
 
-**Yang, J. A.; Sherard, M. K.; Julien, C.; Borrego, M.**. *Journal of Women and Minorities in Science and Engineering* (2021).
+**Yang, J. A.; Sherard, M. K.; Julien, C.; Borrego, M.**. *Journal of Women and Minorities in Science and Engineering* (2021)
 
 <details>
 <summary>BibTeX: <code>yang2021resistance</code></summary>
@@ -264,7 +264,7 @@ complete BibTeX record.
 
 ### LGBTQ+ in ECE: Culture and (Non)visibility
 
-**Yang, J. A.; Sherard, M. K.; Julien, C.; Borrego, M.**. *IEEE Transactions on Education* (2021).
+**Yang, J. A.; Sherard, M. K.; Julien, C.; Borrego, M.**. *IEEE Transactions on Education* (2021)
 
 <details>
 <summary>BibTeX: <code>yang2021lgbtqece</code></summary>
@@ -291,7 +291,7 @@ complete BibTeX record.
 
 ### Today's Grad Students, Tomorrow's Faculty: LGBTQIA+ Graduate Student Experiences Navigating the Insider/Outsider Paradox in STEM
 
-**Bakka, B.; Jennings, M.; Yang, J. A.**. *Queerness as Doing in Higher Education* (2022).
+**Bakka, B.; Jennings, M.; Yang, J. A.**. *Queerness as Doing in Higher Education* (2022)
 
 <details>
 <summary>BibTeX: <code>bakka2022gradstudents</code></summary>
@@ -317,7 +317,7 @@ complete BibTeX record.
 
 ### Magnetic Nanorod Array Formed Through Bottom-Up Polyol Synthesis and Magnetic-Field Assisted Assembly for Microwave Applications
 
-**Fultz-Waters, S.; He, W.; Alaei, S.; Bryan, J.; Yang, J. A.; Lee, Y.; Suzuki, Y.; Tsai, W.; Pop, E.; Wang, S. X.**. *Magnetism and Magnetic Materials (MMM) Conference* (2026).
+**Fultz-Waters, S.; He, W.; Alaei, S.; Bryan, J.; Yang, J. A.; Lee, Y.; Suzuki, Y.; Tsai, W.; Pop, E.; Wang, S. X.**. *Magnetism and Magnetic Materials (MMM) Conference* (2026)
 
 <details>
 <summary>BibTeX: <code>fultzwaters2026nanorod</code></summary>
@@ -339,7 +339,7 @@ complete BibTeX record.
 
 ### Radiation Threshold of Scaled Isotopically Pure MoS$_2$ Nanoribbon Field-Effect Transistors
 
-**Yang, J. A.; Pe{\~n}a, T.; Wright, A.; Chaney, J. A.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.**. *IEEE Nuclear and Space Radiation Effects Conference (NSREC)* (2026).
+**Yang, J. A.; Peña, T.; Wright, A.; Chaney, J. A.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.**. *IEEE Nuclear and Space Radiation Effects Conference (NSREC)* (2026)
 
 <details>
 <summary>BibTeX: <code>yang2026nsrec</code></summary>
@@ -361,7 +361,7 @@ complete BibTeX record.
 
 ### P-Type Doping of WSe$_2$ Transistors via Time-Stable Native Oxide Formation
 
-**Phillips, H.; Pe{\~n}a, T.; Lai, S.; Hoang, L.; Alson, L.; Hoang, A. T.; Yang, J. A.; Mannix, A. J.; Liu, F.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2026).
+**Phillips, H.; Peña, T.; Lai, S.; Hoang, L.; Alson, L.; Hoang, A. T.; Yang, J. A.; Mannix, A. J.; Liu, F.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2026)
 
 <details>
 <summary>BibTeX: <code>phillips2026ptype</code></summary>
@@ -383,7 +383,7 @@ complete BibTeX record.
 
 ### Vertical Gate Structures for Two-Dimensional Semiconductors in NAND Flash Memory
 
-**Gault, H. F.; Yang, J. A.; Bennett, R. K. A.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2026).
+**Gault, H. F.; Yang, J. A.; Bennett, R. K. A.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2026)
 
 <details>
 <summary>BibTeX: <code>gault2026verticalgate</code></summary>
@@ -405,7 +405,7 @@ complete BibTeX record.
 
 ### Vertical Sidewall Memtransistors with Monolayer Transition Metal Dichalcogenide Semiconductors
 
-**Yang, J. A.; Bae, I.-T.; Stempinski, E.; Hoang, A. T.; Zhang, Z.; Mannix, A. J.; Daniel, D.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2026).
+**Yang, J. A.; Bae, I.-T.; Stempinski, E.; Hoang, A. T.; Zhang, Z.; Mannix, A. J.; Daniel, D.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2026)
 
 <details>
 <summary>BibTeX: <code>yang2026memtransistors</code></summary>
@@ -427,7 +427,7 @@ complete BibTeX record.
 
 ### High-Performance Dual-Gate Monolayer WS$_2$ Transistors on Flexible Substrates
 
-**Yang, J. A.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *MRS Fall Meeting and Exhibit* (2026).
+**Yang, J. A.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *MRS Fall Meeting and Exhibit* (2026)
 
 <details>
 <summary>BibTeX: <code>yang2026flexdualgate</code></summary>
@@ -449,7 +449,7 @@ complete BibTeX record.
 
 ### First Comparative Study of Thermal Properties between MoS$_2$ and Si-Channel Vertically Stacked GAA Nanosheet nFET at 6--12~nm Gate Lengths
 
-**Song, Y. S.; Su, H.; Pe{\~n}a, T.; Persson, A. E. O.; Yang, K.; Yalon, E.; Bennett, R. K. A.; Neilson, K. M.; Kang, J.; Yang, J. A.; Wong, H.-S. Philip; Wang, S. X.; Pop, E.**. *71st IEEE International Electron Devices Meeting (IEDM)* (2025).
+**Song, Y. S.; Su, H.; Peña, T.; Persson, A. E. O.; Yang, K.; Yalon, E.; Bennett, R. K. A.; Neilson, K. M.; Kang, J.; Yang, J. A.; Wong, H.-S. Philip; Wang, S. X.; Pop, E.**. *71st IEEE International Electron Devices Meeting (IEDM)* (2025)
 
 <details>
 <summary>BibTeX: <code>song2025iedm</code></summary>
@@ -471,7 +471,7 @@ complete BibTeX record.
 
 ### High-Energy Radiation Hardness of Isotopically Pure Monolayer MoS$_2$ Probed by Raman Spectroscopy
 
-**Yang, J. A.; Pe{\~n}a, T.; Wright, A.; Adams, P.; Hoang, A. T.; Taggart, J.; Daniel, D.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2025).
+**Yang, J. A.; Peña, T.; Wright, A.; Adams, P.; Hoang, A. T.; Taggart, J.; Daniel, D.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2025)
 
 <details>
 <summary>BibTeX: <code>yang2025radhardraman</code></summary>
@@ -493,7 +493,7 @@ complete BibTeX record.
 
 ### Flexible Dual-Gate Field-Effect Transistors and Circuits based on MOCVD-grown WS$_2$ Monolayers
 
-**Yang, J. A.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2025).
+**Yang, J. A.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2025)
 
 <details>
 <summary>BibTeX: <code>yang2025flexws2</code></summary>
@@ -515,7 +515,7 @@ complete BibTeX record.
 
 ### Flexible WS$_2$-based Pseudo-CMOS Inverters for In-Sensor Computing
 
-**Yang, J. A.; Bora, A.; Daus, A.; Hoang, L.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *IEEE International Flexible Electronics Technology Conference (IFETC)* (2024).
+**Yang, J. A.; Bora, A.; Daus, A.; Hoang, L.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *IEEE International Flexible Electronics Technology Conference (IFETC)* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024ifetc</code></summary>
@@ -537,7 +537,7 @@ complete BibTeX record.
 
 ### Nanoscale MoS$_2$ Transistors on Polyimide for Radio-Frequency Operation
 
-**Reato, E.; Palacios, P. A.; Yang, J. A.; Wahid, S.; Jaikissoon, M.; Ko, J.-S.; Daus, A.; Saeed, M.; Saraswat, K. C.; Negra, R.; Pop, E.; Lemme, M. C.**. *IEEE Device Research Conference (DRC)* (2024).
+**Reato, E.; Palacios, P. A.; Yang, J. A.; Wahid, S.; Jaikissoon, M.; Ko, J.-S.; Daus, A.; Saeed, M.; Saraswat, K. C.; Negra, R.; Pop, E.; Lemme, M. C.**. *IEEE Device Research Conference (DRC)* (2024)
 
 <details>
 <summary>BibTeX: <code>reato2024drc</code></summary>
@@ -559,7 +559,7 @@ complete BibTeX record.
 
 ### Quantifying Defect-Mediated Electron Capture in Monolayer WS$_2$ Field-Effect Transistors via Time-Dependent Charge Pumping
 
-**Yang, J. A.; Reato, E.; Knobloch, T.; Ko, J.-S.; Zhang, Z.; Mannix, A. J.; Saraswat, K.; Grasser, T.; Lemme, M.; Pop, E.**. *IEEE Device Research Conference (DRC)* (2024).
+**Yang, J. A.; Reato, E.; Knobloch, T.; Ko, J.-S.; Zhang, Z.; Mannix, A. J.; Saraswat, K.; Grasser, T.; Lemme, M.; Pop, E.**. *IEEE Device Research Conference (DRC)* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024chargepumping</code></summary>
@@ -581,7 +581,7 @@ complete BibTeX record.
 
 ### Effects of High-$\kappa$ Dielectric Encapsulation and Carrier Density on Raman Scattering in Synthetic Monolayer WS$_2$
 
-**Yang, J. A.; Hoang, L.; Pe{\~n}a, T.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2024).
+**Yang, J. A.; Hoang, L.; Peña, T.; Zhang, Z.; Mannix, A. J.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024raman</code></summary>
@@ -603,7 +603,7 @@ complete BibTeX record.
 
 ### Mobility Enhancement of Monolayer WS$_2$ from Biaxial Tensile Strain
 
-**Yang, J. A.; Bennett, R. K. A.; Hoang, L.; Zhang, Z.; Thompson, K. J.; Mannix, A. J.; Pop, E.**. *MRS Fall Meeting and Exhibit* (2023).
+**Yang, J. A.; Bennett, R. K. A.; Hoang, L.; Zhang, Z.; Thompson, K. J.; Mannix, A. J.; Pop, E.**. *MRS Fall Meeting and Exhibit* (2023)
 
 <details>
 <summary>BibTeX: <code>yang2023mrsfall</code></summary>
@@ -625,7 +625,7 @@ complete BibTeX record.
 
 ### Electron Mobility Enhancement of \textit{n}-type Monolayer Transition Metal Dichalcogenides from Biaxial Tensile Strain
 
-**Yang, J. A.; Zhang, Z.; Hoang, L.; Mannix, A. J.; Pop, E.**. *California-US Government Workshop on 2D Materials* (2023).
+**Yang, J. A.; Zhang, Z.; Hoang, L.; Mannix, A. J.; Pop, E.**. *California-US Government Workshop on 2D Materials* (2023)
 
 <details>
 <summary>BibTeX: <code>yang2023calus</code></summary>
@@ -647,7 +647,7 @@ complete BibTeX record.
 
 ### Lithographic Damage to Two-Dimensional Materials Probed by Photoluminescence and Raman Spectroscopy
 
-**Neilson, K. M.; Tie, M.; Ko, J.-S.; Jaikissoon, M.; Yang, J. A.; Chen, R.; Majumdar, A.; Saraswat, K. C.; Heinz, T. F.; Pop, E.**. *American Physical Society March Meeting* (2023).
+**Neilson, K. M.; Tie, M.; Ko, J.-S.; Jaikissoon, M.; Yang, J. A.; Chen, R.; Majumdar, A.; Saraswat, K. C.; Heinz, T. F.; Pop, E.**. *American Physical Society March Meeting* (2023)
 
 <details>
 <summary>BibTeX: <code>neilson2023aps</code></summary>
@@ -670,7 +670,7 @@ complete BibTeX record.
 
 ### Mobility Enhancement of Monolayer MoS$_2$ Transistors using Tensile-Stressed Silicon Nitride Capping Layers
 
-**Jaikissoon, M.; Yang, J. A.; Neilson, K. M.; Pop, E.; Saraswat, K. C.**. *IEEE Device Research Conference (DRC)* (2022).
+**Jaikissoon, M.; Yang, J. A.; Neilson, K. M.; Pop, E.; Saraswat, K. C.**. *IEEE Device Research Conference (DRC)* (2022)
 
 <details>
 <summary>BibTeX: <code>jaikissoon2022drc</code></summary>
@@ -693,7 +693,7 @@ complete BibTeX record.
 
 ### Strain Engineering Metal Contacts to Monolayer MoS$_2$ Transistors
 
-**Jaikissoon, M.; Yang, J. A.; Pop, E.; Saraswat, K.**. *MRS Spring Meeting and Exhibit* (2022).
+**Jaikissoon, M.; Yang, J. A.; Pop, E.; Saraswat, K.**. *MRS Spring Meeting and Exhibit* (2022)
 
 <details>
 <summary>BibTeX: <code>jaikissoon2022mrs</code></summary>
@@ -715,7 +715,7 @@ complete BibTeX record.
 
 ### Probing the Effect of Biaxial Strain on Raman Scattering of CVD-grown WSe$_2$ Monolayers
 
-**Yang, J. A.; Michail, A.; Thompson, K. J.; Nattoo, C. A.; Bailey, C. S.; Parthenios, J.; Daus, A.; Papagelis, K.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2022).
+**Yang, J. A.; Michail, A.; Thompson, K. J.; Nattoo, C. A.; Bailey, C. S.; Parthenios, J.; Daus, A.; Papagelis, K.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2022)
 
 <details>
 <summary>BibTeX: <code>yang2022wse2raman</code></summary>
@@ -737,7 +737,7 @@ complete BibTeX record.
 
 ### A Piezoresistive MEMS Memory Device using a Buckled Beam
 
-**Yang, J. A.; Shuvra, P. D.; McNamara, S.; Alphenaar, B.; Walsh, K.**. *TechConnect Briefs: Proceedings of the 2019 TechConnect World Innovation Conference and Expo* (2019).
+**Yang, J. A.; Shuvra, P. D.; McNamara, S.; Alphenaar, B.; Walsh, K.**. *TechConnect Briefs: Proceedings of the 2019 TechConnect World Innovation Conference and Expo* (2019)
 
 <details>
 <summary>BibTeX: <code>yang2019techconnect</code></summary>
@@ -760,7 +760,7 @@ complete BibTeX record.
 
 ### A Semiconductor Nanotechnology Manufacturing Laboratory Course for First-Year Undergraduate Students
 
-**Yang, J. A.; Pe{\~n}a, T.; Kommera, S.; Wong, H.-S. P.**. *2026 ASEE Annual Conference and Exposition* (2026).
+**Yang, J. A.; Peña, T.; Kommera, S.; Wong, H.-S. P.**. *2026 ASEE Annual Conference and Exposition* (2026)
 
 <details>
 <summary>BibTeX: <code>yang2026asee</code></summary>
@@ -783,7 +783,7 @@ complete BibTeX record.
 
 ### A Tale from the Queer Resistance: Healing and Activism from with(in) Materials Science
 
-**Yang, J. A.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2024).
+**Yang, J. A.; Pop, E.**. *MRS Spring Meeting and Exhibit* (2024)
 
 <details>
 <summary>BibTeX: <code>yang2024queerresistance</code></summary>
@@ -805,7 +805,7 @@ complete BibTeX record.
 
 ### Overrepresented $\neq$ Not-Marginalized: Unpacking the Racialization of Asians and Asian-Americans in Engineering Education
 
-**Yang, J. A.; {antonio}, {a. l.}; Sheppard, S. D.**. *2023 ASEE Annual Conference and Exposition* (2023).
+**Yang, J. A.; antonio, a. l.; Sheppard, S. D.**. *2023 ASEE Annual Conference and Exposition* (2023)
 
 <details>
 <summary>BibTeX: <code>yang2023overrepresented</code></summary>
@@ -828,7 +828,7 @@ complete BibTeX record.
 
 ### Work-In-Progress: Intersectionality, (Re)Defined: A Scoping Review of Intersectionality in the Journal of Engineering Education
 
-**Yang, J. A.**. *2023 ASEE Annual Conference and Exposition* (2023).
+**Yang, J. A.**. *2023 ASEE Annual Conference and Exposition* (2023)
 
 <details>
 <summary>BibTeX: <code>yang2023wipintersectionality</code></summary>
@@ -851,7 +851,7 @@ complete BibTeX record.
 
 ### Balancing Social, Personal, and Work Responsibilities for Minoritized Doctoral Students in Engineering
 
-**Yang, J. A.; Nattoo, C. A.**. *2022 ASEE Annual Conference and Exposition* (2022).
+**Yang, J. A.; Nattoo, C. A.**. *2022 ASEE Annual Conference and Exposition* (2022)
 
 <details>
 <summary>BibTeX: <code>yang2022balancing</code></summary>
@@ -874,7 +874,7 @@ complete BibTeX record.
 
 ### Internships' Impact on Recognition for First-Generation and/or Low-Income Students
 
-**Yang, J. A.; Towles, J. D.; Sheppard, S. D.; Atwood, S. A.**. *2022 ASEE Annual Conference and Exposition* (2022).
+**Yang, J. A.; Towles, J. D.; Sheppard, S. D.; Atwood, S. A.**. *2022 ASEE Annual Conference and Exposition* (2022)
 
 <details>
 <summary>BibTeX: <code>yang2022internships</code></summary>
@@ -897,7 +897,7 @@ complete BibTeX record.
 
 ### Transformational Resistance for Multiple-Marginalized LGBTQIA+ Students with Incongruent Identity Development
 
-**Chou, V. X.-W.; Yang, J. A.; Bakka, B.; Borrego, M.**. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2022).
+**Chou, V. X.-W.; Yang, J. A.; Bakka, B.; Borrego, M.**. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2022)
 
 <details>
 <summary>BibTeX: <code>chou2022conecd</code></summary>
@@ -920,7 +920,7 @@ complete BibTeX record.
 
 ### Student Panel: Understanding Queer Experiences in Engineering
 
-**Bakka, B.; Jennings, M.; Rodriguez-Simmonds, H. E.; Clancy, S.; Pasek, A.; Yang, J. A.**. *ASEE Annual Conference and Exposition* (2021).
+**Bakka, B.; Jennings, M.; Rodriguez-Simmonds, H. E.; Clancy, S.; Pasek, A.; Yang, J. A.**. *ASEE Annual Conference and Exposition* (2021)
 
 <details>
 <summary>BibTeX: <code>bakka2021panel</code></summary>
@@ -942,7 +942,7 @@ complete BibTeX record.
 
 ### Cultural Scripts, Space, and Identity: Perspectives of Two LGBTQ+ Engineering Students on Inclusive Spaces
 
-**Yang, J. A.; Boklage, A.; Sherard, M. K.; Julien, C.; Borrego, M.**. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2021).
+**Yang, J. A.; Boklage, A.; Sherard, M. K.; Julien, C.; Borrego, M.**. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2021)
 
 <details>
 <summary>BibTeX: <code>yang2021culturalscripts</code></summary>
@@ -965,7 +965,7 @@ complete BibTeX record.
 
 ### Increasing Student Understanding of Diversity/Inclusion Issues in a First-Year Engineering Classroom
 
-**Yang, J. A.; Telang, N. K.**. *Proceedings of the First-Year Engineering Experience (FYEE) Conference* (2020).
+**Yang, J. A.; Telang, N. K.**. *Proceedings of the First-Year Engineering Experience (FYEE) Conference* (2020)
 
 <details>
 <summary>BibTeX: <code>yang2020fyee</code></summary>
@@ -990,7 +990,7 @@ complete BibTeX record.
 
 ### Impact of Isotopic Purification on Synthetic Monolayer MoS$_2$
 
-**Pe{\~n}a, T.; Hoang, A. T.; Yang, J. A.; Chaney, J. A.; Fridriksd{\'o}ttir, {\'A}.; Han, Z.; Wang, J.; Lai, S.; Heinz, T. F.; McIntyre, P. C.; Daniel, D.; Mannix, A. J.; Pop, E.**..
+**Peña, T.; Hoang, A. T.; Yang, J. A.; Chaney, J. A.; Fridriksdóttir, Á.; Han, Z.; Wang, J.; Lai, S.; Heinz, T. F.; McIntyre, P. C.; Daniel, D.; Mannix, A. J.; Pop, E.**.
 
 <details>
 <summary>BibTeX: <code>pena_prep_isotopic</code></summary>
@@ -1009,7 +1009,7 @@ complete BibTeX record.
 
 ### Flexible In-Sensor Computing and Memory with High-Performance Dual-Gate Monolayer Transition Metal Dichalcogenide Transistors
 
-**Yang, J. A.; Lee, Y.-M.; Gault, H. F.; Zhang, Z.; Wu, X.; Mannix, A. J.; Pop, E.**..
+**Yang, J. A.; Lee, Y.-M.; Gault, H. F.; Zhang, Z.; Wu, X.; Mannix, A. J.; Pop, E.**.
 
 <details>
 <summary>BibTeX: <code>yang_prep_insensor</code></summary>
@@ -1028,7 +1028,7 @@ complete BibTeX record.
 
 ### Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
-**Yang, J. A.; Pe{\~n}a, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.**..
+**Yang, J. A.; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.**.
 
 <details>
 <summary>BibTeX: <code>yang_sub_gamma</code></summary>
