@@ -29,7 +29,31 @@ toc_levels: 2
   }
 </style>
 
-## Journal Articles: Two-Dimensional Materials & Microelectronics
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var toc = document.querySelector(".toc__menu");
+    var sectionIds = [
+      "journal-articles-2d",
+      "journal-articles-education",
+      "conference-proceedings-2d",
+      "conference-proceedings-education"
+    ];
+
+    if (!toc) {
+      return;
+    }
+
+    toc.querySelectorAll("li").forEach(function (item) {
+      var link = item.querySelector(":scope > a");
+      var href = link && link.getAttribute("href");
+      if (!href || sectionIds.indexOf(href.slice(1)) === -1) {
+        item.remove();
+      }
+    });
+  });
+</script>
+
+## Journal Articles: Two-Dimensional Materials & Microelectronics {#journal-articles-2d}
 
 #### 8. Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
@@ -63,7 +87,7 @@ Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.
 
 Lin, J.-T.; Shuvra, P. D.; <strong><u>Yang, J. A.</u></strong>; McNamara, S.; Walsh, K.; Alphenaar, B.. *Journal of Micromechanics and Microengineering* (2020)
 
-## Journal Articles: Equity-Centered Engineering Education
+## Journal Articles: Equity-Centered Engineering Education {#journal-articles-education}
 
 #### 5. [Engineer, Asian, and Gay AF: Counterstorytelling as Means for Methodological Activism and Intersectional Healing in Engineering Education](https://doi.org/10.21061/see.123)
 
@@ -85,7 +109,7 @@ Bakka, B.; Jennings, M.; <strong><u>Yang, J. A.</u></strong>. *Queerness as Doin
 
 <strong><u>Yang, J. A.</u></strong>; Sherard, M. K.; Julien, C.; Borrego, M.. *IEEE Transactions on Education* (2021)
 
-## Conference Proceedings: Two-Dimensional Materials & Microelectronics
+## Conference Proceedings: Two-Dimensional Materials & Microelectronics {#conference-proceedings-2d}
 
 #### 20. Magnetic Nanorod Array Formed Through Bottom-Up Polyol Synthesis and Magnetic-Field Assisted Assembly for Microwave Applications
 
@@ -167,7 +191,7 @@ Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Pop, E.; Saraswat, K.. *MRS
 
 <strong><u>Yang, J. A.</u></strong>; Shuvra, P. D.; McNamara, S.; Alphenaar, B.; Walsh, K.. *TechConnect Briefs: Proceedings of the 2019 TechConnect World Innovation Conference and Expo* (2019)
 
-## Conference Proceedings: Equity-Centered Engineering Education
+## Conference Proceedings: Equity-Centered Engineering Education {#conference-proceedings-education}
 
 #### 10. [A Semiconductor Nanotechnology Manufacturing Laboratory Course for First-Year Undergraduate Students](https://peer.asee.org/59154)
 
