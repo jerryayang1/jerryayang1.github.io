@@ -99,3 +99,5 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 **Medium:** Silicon
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
 **Description:** DRIE-etched silicon sidewall; charge concentration brightens the scallop tips and obscures the wavy surface, making it appear sharp and ladder-like.<br>
+
+

@@ -39,3 +39,7 @@ pickleball, and trying niche hobbies.
 - The Aerospace Corporation, 2024-2026
 - Texas Instruments, 2020
 - Boumatic Robotics, 2016
+
+<footer>
+  <small>Last revised: November 8, 2026</small>
+</footer>
