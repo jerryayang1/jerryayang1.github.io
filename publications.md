@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 toc_label: "Jump to"
 toc_icon: "sitemap"
-toc_levels: 1
+toc_levels: 2
 ---
 
 <style>
