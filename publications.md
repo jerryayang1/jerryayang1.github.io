@@ -28,7 +28,7 @@ toc_levels: 2
 
   .publication-authors {
     display: block;
-    font-size: 65%;
+    font-size: 100%;
     font-weight: 400;
   }
 
