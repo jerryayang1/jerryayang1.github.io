@@ -35,7 +35,7 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 
 ![Electron-beam pattern 1](/assets/images/ebpg1.png)
 
-**Title:** MoS$_2$ Cat<br>
+**Title:** Nano-Cat<br>
 **Medium:** Etched MoS$_2$ on Silicon<br>
 **Instrument:** Thermo-Fisher Hydra Scanning Electron Microscope<br>
 **Description:** Sunglasses-wearing cat. Patterned with a Raith EBPG 5200+ and etched into MoS$_2$ with XeF$_2$.<br>
@@ -49,30 +49,30 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 
 ![Electron-beam pattern 3](/assets/images/ebpg3.png)
 
-**Title:** Raith EBPG 5200+<br>
+**Title:** Pattern with the Pattern Maker<br>
 **Medium:** Etched MoS$_2$ on Silicon<br>
 **Instrument:** Thermo-Fisher Hydra Scanning Electron Microscope<br>
 **Description:** Raith EBPG 5200+ image, rendered in black and white. Patterned with Raith EBPG 5200+ and etched with XeF$_2$.<br>
 
 ![Electron-beam pattern 4](/assets/images/ebpg4.png)
 
-**Title:** Stanford S<br>
+**Title:** Stanford in MoS$_2$<br>
 **Medium:** Etched MoS$_2$ on Silicon<br>
 **Instrument:** Thermo-Fisher Hydra Scanning Electron Microscope<br>
-**Description:** Stanford S logo. Patterned with Raith EBPG 5200+ and etched with XeF$_2$.<br>
+**Description:** Stanford logo. Patterned with Raith EBPG 5200+ and etched with XeF$_2$.<br>
 
 ### Transmission Electron Microscopy (TEM) Lamellae
 
 ![Lamella image 1](/assets/images/Lamella_001.png)
 
-**Title:** <br>
+**Title:** Slice of Device: 2D Transistor<br>
 **Medium:** Back-gated MoS$_2$ Transistor on Silicon, attached to copper TEM half-grid<br>
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
 **Description:** Back-gated MoS$_2$ transistor, sandwiched between platinum and silicon; lamella is welded to a copper TEM half-grid (right).<br>
 
 ![Lamella image 2](/assets/images/Lamella_002.png)
 
-**Title:** Lamella 2<br>
+**Title:** Slice of Device: Copper FIB Grid<br>
 **Medium:** Back-gated MoS$_2$ Transistor on Silicon, attached to copper TEM half-grid<br>
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
 **Description:** Wider view of the lamella and copper TEM half-grid, approximately one-quarter fingernail-sized.<br>
@@ -82,22 +82,22 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 ![Scalloped etch profile 1](/assets/images/scallops1.png)
 
 **Title:** Silicon Dunes<br>
-**Medium:** AuPd-Coated Etched Silicon
+**Medium:** AuPd-Coated Etched Silicon<br>
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
 **Description:** DRIE-fabricated silicon trench; AuPd coating highlights the cyclical scalloped sidewall profile.<br>
 
 ![Scalloped etch profile 2](/assets/images/scallops2.png)
 
-**Title:** Scalloped etch profile 2<br>
-**Medium:** Platinum on AuPd-Coated Etched Silicon
+**Title:** Sidewall Scallop Surfing<br>
+**Medium:** Platinum on AuPd-Coated Etched Silicon<br>
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
-**Description:** Wide view of scalloped silicon sidewalls with columnar, ion-beam-deposited platinum grains.<br>
+**Description:** Wide view of scalloped silicon sidewalls with columnar, ion-beam-deposited platinum grains, as if the platinum were riding the scallop waves.<br>
 
 ![Sidewall etch profile](/assets/images/sidewall.png)
 
-**Title:** Sidewall etch profile<br>
-**Medium:** Silicon
+**Title:** Sidewall Ladder<br>
+**Medium:** Silicon<br>
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
-**Description:** DRIE-etched silicon sidewall; charge concentration brightens the scallop tips and obscures the wavy surface, making it appear sharp and ladder-like.<br>
+**Description:** DRIE-etched silicon sidewall; charge concentration brightens the scallop tips and obscures the wavy surface, making the sidewall appear to have sharp, ladder-like edges.<br>
 
 
