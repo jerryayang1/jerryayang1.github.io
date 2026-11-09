@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 mathjax: true
+toc: true
+toc_sticky: true
+toc_label: "Jump to"
+toc_icon: "sitemap"
+toc_levels: 2
 ---
 
 <style>
@@ -20,17 +25,7 @@ mathjax: true
   }
 </style>
 
-## Journal Articles
-
-### Two-Dimensional Materials & Microelectronics
-
-#### 10. Impact of Isotopic Purification on Synthetic Monolayer MoS$_2$
-
-Peña, T.; Hoang, A. T.; <strong><u>Yang, J. A.</u></strong>; Chaney, J. A.; Fridriksdóttir, Á.; Han, Z.; Wang, J.; Lai, S.; Heinz, T. F.; McIntyre, P. C.; Daniel, D.; Mannix, A. J.; Pop, E.. *Manuscript in preparation*
-
-#### 9. Flexible In-Sensor Computing and Memory with High-Performance Dual-Gate Monolayer Transition Metal Dichalcogenide Transistors
-
-<strong><u>Yang, J. A.</u></strong>; Lee, Y.-M.; Gault, H. F.; Zhang, Z.; Wu, X.; Mannix, A. J.; Pop, E.. *Manuscript in preparation*
+## Journal Articles: Two-Dimensional Materials & Microelectronics
 
 #### 8. Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
@@ -64,7 +59,7 @@ Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.
 
 Lin, J.-T.; Shuvra, P. D.; <strong><u>Yang, J. A.</u></strong>; McNamara, S.; Walsh, K.; Alphenaar, B.. *Journal of Micromechanics and Microengineering* (2020)
 
-### Equity-Centered Engineering Education
+## Journal Articles: Equity-Centered Engineering Education
 
 #### 5. [Engineer, Asian, and Gay AF: Counterstorytelling as Means for Methodological Activism and Intersectional Healing in Engineering Education](https://doi.org/10.21061/see.123)
 
@@ -86,9 +81,7 @@ Bakka, B.; Jennings, M.; <strong><u>Yang, J. A.</u></strong>. *Queerness as Doin
 
 <strong><u>Yang, J. A.</u></strong>; Sherard, M. K.; Julien, C.; Borrego, M.. *IEEE Transactions on Education* (2021)
 
-## Conference Proceedings
-
-### Two-Dimensional Materials & Microelectronics
+## Conference Proceedings: Two-Dimensional Materials & Microelectronics
 
 #### 20. Magnetic Nanorod Array Formed Through Bottom-Up Polyol Synthesis and Magnetic-Field Assisted Assembly for Microwave Applications
 
@@ -170,7 +163,7 @@ Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Pop, E.; Saraswat, K.. *MRS
 
 <strong><u>Yang, J. A.</u></strong>; Shuvra, P. D.; McNamara, S.; Alphenaar, B.; Walsh, K.. *TechConnect Briefs: Proceedings of the 2019 TechConnect World Innovation Conference and Expo* (2019)
 
-### Equity-Centered Engineering Education
+## Conference Proceedings: Equity-Centered Engineering Education
 
 #### 10. [A Semiconductor Nanotechnology Manufacturing Laboratory Course for First-Year Undergraduate Students](https://peer.asee.org/59154)
 
