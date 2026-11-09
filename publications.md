@@ -14,6 +14,10 @@ mathjax: true
   .page__content h4 + p {
     font-size: 65%;
   }
+
+  .page__content > h2:first-of-type {
+    margin-top: 0;
+  }
 </style>
 
 ## Journal Articles

@@ -24,7 +24,17 @@ pickleball, and trying niche hobbies.
 
 ## Areas of interest
 
-- Heterogeneous integration of two-dimensional (2D) materials into devices
-  and systems
+- Heterogeneous integration of two-dimensional (2D) materials into devices and systems
 - Unconventional nanofabrication techniques
 - Semiconductor workforce development and engineering education
+
+## Education
+
+- Phd Electrical Engineering, Stanford University, Sep 2020 - Sep 2026
+- MA Education, Stanford University, Jan 2022 - Jun 2023
+- BS Electrical and Computer Engineering, University of Texas at Austin, Aug 2016 - May 2020
+
+## Professional Experience
+
+- The Aerospace Corporation, 2024-2026
+- Texas Instruments, 2020

@@ -65,9 +65,42 @@
       font-size: 0.95rem;
     }
   }
+
+  @media (max-width: 64em) {
+    .greedy-nav .visible-links {
+      display: none;
+    }
+
+    .greedy-nav .greedy-nav__toggle {
+      display: block !important;
+      margin-left: auto;
+    }
+
+    .greedy-nav .hidden-links {
+      left: 0;
+      right: 0;
+      width: auto;
+      margin: 0;
+    }
+  }
 </style>
 
 <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.matchMedia("(max-width: 64em)").matches) {
+      var visibleLinks = document.querySelector(".greedy-nav .visible-links");
+      var hiddenLinks = document.querySelector(".greedy-nav .hidden-links");
+      var toggle = document.querySelector(".greedy-nav .greedy-nav__toggle");
+
+      if (visibleLinks && hiddenLinks && toggle) {
+        while (visibleLinks.firstElementChild) {
+          hiddenLinks.appendChild(visibleLinks.firstElementChild);
+        }
+        toggle.classList.remove("hidden");
+      }
+    }
+  });
+
   document.addEventListener("DOMContentLoaded", function () {
     var hero = document.querySelector(".page__hero--overlay");
     if (!hero) {
