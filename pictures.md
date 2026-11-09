@@ -49,7 +49,7 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 
 ![Electron-beam pattern 3](/assets/images/ebpg3.png)
 
-**Title:** Pattern with the Pattern Maker<br>
+**Title:** Patterning the Pattern Maker<br>
 **Medium:** Etched MoS$_2$ on Silicon<br>
 **Instrument:** Thermo-Fisher Hydra Scanning Electron Microscope<br>
 **Description:** Raith EBPG 5200+ image, rendered in black and white. Patterned with Raith EBPG 5200+ and etched with XeF$_2$.<br>
