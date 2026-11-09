@@ -23,6 +23,10 @@ toc_levels: 2
   .page__content > h2:first-of-type {
     margin-top: 0;
   }
+
+  .toc__menu > li > ul {
+    display: none;
+  }
 </style>
 
 ## Journal Articles: Two-Dimensional Materials & Microelectronics
