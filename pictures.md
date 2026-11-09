@@ -16,6 +16,8 @@ Microscopy images, process snapshots, and other pictures from the lab.
 
 ![Crystal structure image](/assets/images/crystal.png)
 
+![Crystal structure image 2](/assets/images/crystal2.png)
+
 ### Electron-beam patterning
 
 ![Electron-beam pattern 1](/assets/images/ebpg1.png)
