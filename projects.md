@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current projects
 
-My current work focuses on the engineering and heterogeneous integration of atomically thin two-dimensional (2D) semiconductors, in particular, transition metal dichalcognides (TMDs) such as MoS2 and WS2. 
+My current work focuses on the engineering and heterogeneous integration of atomically thin two-dimensional (2D) semiconductors, in particular, transition metal dichalcognides (TMDs) such as MoS$_2$ and WS$_2$. 
 
 These materials are unique in that they are only a few atoms thick, can be readily synthesized on large areas, are highly sensitive to various environmental stimuli (such as strain, light, and temperature), and can be trasnferred cleanly onto many different substrates, creating many different avenues for applications. 
 
