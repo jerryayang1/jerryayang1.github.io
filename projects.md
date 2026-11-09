@@ -39,6 +39,7 @@ Bringing computational power closer to their data sources (e.g. sensors) can fac
 
 ### First-Generation/Low-Income Engineering Students and Internships
 
+First-generation and/or low-income (FGLI) engineering students often struggle with finding internship opportunities. Given that internships are a cornerstone of the engineering undergradate experience and significantly improve employment outcomes, how do FGLI engineering students navigate internship acquisition? 
 
 ### LGBTQ+ Engineering Student Experiences
 

@@ -24,16 +24,23 @@ mathjax: true
 
 ### Two-Dimensional Materials & Microelectronics
 
+#### 10. Impact of Isotopic Purification on Synthetic Monolayer MoS$_2$
+
+Peña, T.; Hoang, A. T.; <strong><u>Yang, J. A.</u></strong>; Chaney, J. A.; Fridriksdóttir, Á.; Han, Z.; Wang, J.; Lai, S.; Heinz, T. F.; McIntyre, P. C.; Daniel, D.; Mannix, A. J.; Pop, E.. *Manuscript in preparation*
+
+#### 9. Flexible In-Sensor Computing and Memory with High-Performance Dual-Gate Monolayer Transition Metal Dichalcogenide Transistors
+
+<strong><u>Yang, J. A.</u></strong>; Lee, Y.-M.; Gault, H. F.; Zhang, Z.; Wu, X.; Mannix, A. J.; Pop, E.. *Manuscript in preparation*
 
 #### 8. Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
-<strong><u>Yang, J. A.</u></strong>; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.. *under review*
+<strong><u>Yang, J. A.</u></strong>; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.. *Manuscript submitted*
 
 #### 7. [Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides](https://doi.org/10.1038/s41565-026-02161-w)
 
 Peña, T.; Persson, A. E. O.; Krayev, A.; Fridriksdóttir, Á.; Neilson, K.; Zhang, Z.; Hoang, A. T.; <strong><u>Yang, J. A.</u></strong>; Hoang, L.; Song, Y. S.; Mannix, A. J.; McIntyre, P. C.; Pop, E.. *Nature Nanotechnology* (2026)
 
-#### 6. [Excitation Laser Energy Dependence of the Gap-Mode TERS Spectra of WS$_2$ and MoS$_2$ on Silver](https://doi.org/10.1021/acsphotonics.4c02133)
+#### 6. [Excitation Laser Energy Dependence of the Gap-Mode TERS Spectra of WS$_2$ and MoS$_2$ on Silver](https://doi.org/10.1021/acsphotonics.4c02257)
 
 Krayev, A.; Isotta, E.; Hoang, L.; <strong><u>Yang, J. A.</u></strong>; Neilson, K.; Wang, M.; Haughn, N.; Pop, E.; Mannix, A. J.; Balogun, O.; Wang, C.-F.. *ACS Photonics* (2025)
 
@@ -47,7 +54,7 @@ Hoang, L.; Jaikissoon, M.; Köroğlu, Ç.; Zhang, Z.; Bennett, R. K. A.; Song, J
 
 #### 3. [Biaxial Strain Transfer in Monolayer MoS$_2$ and WSe$_2$ Transistor Structures](https://doi.org/10.1021/acsami.4c07216)
 
-Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K.. *ACS Applied Materials & Interfaces* (2024)
+Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.; Nattoo, C. A.; Bailey, C. S.; Daus, A.; Parthenios, J.; Pop, E.; Papagelis, K.. *ACS Applied Materials \& Interfaces* (2024)
 
 #### 2. [Biaxial Tensile Strain Enhances Electron Mobility of Monolayer Transition Metal Dichalcogenides](https://doi.org/10.1021/acsnano.3c08996)
 
@@ -58,7 +65,6 @@ Michail, A.; <strong><u>Yang, J. A.</u></strong>; Filintoglou, K.; Balakeras, N.
 Lin, J.-T.; Shuvra, P. D.; <strong><u>Yang, J. A.</u></strong>; McNamara, S.; Walsh, K.; Alphenaar, B.. *Journal of Micromechanics and Microengineering* (2020)
 
 ### Equity-Centered Engineering Education
-
 
 #### 5. [Engineer, Asian, and Gay AF: Counterstorytelling as Means for Methodological Activism and Intersectional Healing in Engineering Education](https://doi.org/10.21061/see.123)
 
@@ -84,7 +90,6 @@ Bakka, B.; Jennings, M.; <strong><u>Yang, J. A.</u></strong>. *Queerness as Doin
 
 ### Two-Dimensional Materials & Microelectronics
 
-
 #### 20. Magnetic Nanorod Array Formed Through Bottom-Up Polyol Synthesis and Magnetic-Field Assisted Assembly for Microwave Applications
 
 Fultz-Waters, S.; He, W.; Alaei, S.; Bryan, J.; <strong><u>Yang, J. A.</u></strong>; Lee, Y.; Suzuki, Y.; Tsai, W.; Pop, E.; Wang, S. X.. *Magnetism and Magnetic Materials (MMM) Conference* (2026)
@@ -109,7 +114,7 @@ Gault, H. F.; <strong><u>Yang, J. A.</u></strong>; Bennett, R. K. A.; Pop, E.. *
 
 <strong><u>Yang, J. A.</u></strong>; Zhang, Z.; Mannix, A. J.; Pop, E.. *MRS Fall Meeting and Exhibit* (2026)
 
-#### 14. First Comparative Study of Thermal Properties between MoS$_2$ and Si-Channel Vertically Stacked GAA Nanosheet nFET at 6--12~nm Gate Lengths
+#### 14. [First Comparative Study of Thermal Properties between MoS$_2$ and Si-Channel Vertically Stacked GAA Nanosheet nFET at 6--12~nm Gate Lengths](https://doi.org/10.1109/IEDM50572.2025.11353799)
 
 Song, Y. S.; Su, H.; Peña, T.; Persson, A. E. O.; Yang, K.; Yalon, E.; Bennett, R. K. A.; Neilson, K. M.; Kang, J.; <strong><u>Yang, J. A.</u></strong>; Wong, H.-S. Philip; Wang, S. X.; Pop, E.. *71st IEEE International Electron Devices Meeting (IEDM)* (2025)
 
@@ -121,15 +126,15 @@ Song, Y. S.; Su, H.; Peña, T.; Persson, A. E. O.; Yang, K.; Yalon, E.; Bennett,
 
 <strong><u>Yang, J. A.</u></strong>; Zhang, Z.; Mannix, A. J.; Pop, E.. *MRS Spring Meeting and Exhibit* (2025)
 
-#### 11. Flexible WS$_2$-based Pseudo-CMOS Inverters for In-Sensor Computing
+#### 11. [Flexible WS$_2$-based Pseudo-CMOS Inverters for In-Sensor Computing](https://doi.org/10.1109/IFETC61155.2024.10771887)
 
 <strong><u>Yang, J. A.</u></strong>; Bora, A.; Daus, A.; Hoang, L.; Zhang, Z.; Mannix, A. J.; Pop, E.. *IEEE International Flexible Electronics Technology Conference (IFETC)* (2024)
 
-#### 10. Nanoscale MoS$_2$ Transistors on Polyimide for Radio-Frequency Operation
+#### 10. [Nanoscale MoS$_2$ Transistors on Polyimide for Radio-Frequency Operation](https://doi.org/10.1109/DRC61706.2024.10605276)
 
 Reato, E.; Palacios, P. A.; <strong><u>Yang, J. A.</u></strong>; Wahid, S.; Jaikissoon, M.; Ko, J.-S.; Daus, A.; Saeed, M.; Saraswat, K. C.; Negra, R.; Pop, E.; Lemme, M. C.. *IEEE Device Research Conference (DRC)* (2024)
 
-#### 9. Quantifying Defect-Mediated Electron Capture in Monolayer WS$_2$ Field-Effect Transistors via Time-Dependent Charge Pumping
+#### 9. [Quantifying Defect-Mediated Electron Capture in Monolayer WS$_2$ Field-Effect Transistors via Time-Dependent Charge Pumping](https://doi.org/10.1109/DRC61706.2024.10605555)
 
 <strong><u>Yang, J. A.</u></strong>; Reato, E.; Knobloch, T.; Ko, J.-S.; Zhang, Z.; Mannix, A. J.; Saraswat, K.; Grasser, T.; Lemme, M.; Pop, E.. *IEEE Device Research Conference (DRC)* (2024)
 
@@ -167,8 +172,7 @@ Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Pop, E.; Saraswat, K.. *MRS
 
 ### Equity-Centered Engineering Education
 
-
-#### 10. A Semiconductor Nanotechnology Manufacturing Laboratory Course for First-Year Undergraduate Students
+#### 10. [A Semiconductor Nanotechnology Manufacturing Laboratory Course for First-Year Undergraduate Students](https://peer.asee.org/59154)
 
 <strong><u>Yang, J. A.</u></strong>; Peña, T.; Kommera, S.; Wong, H.-S. P.. *2026 ASEE Annual Conference and Exposition* (2026)
 
@@ -192,13 +196,13 @@ Jaikissoon, M.; <strong><u>Yang, J. A.</u></strong>; Pop, E.; Saraswat, K.. *MRS
 
 <strong><u>Yang, J. A.</u></strong>; Towles, J. D.; Sheppard, S. D.; Atwood, S. A.. *2022 ASEE Annual Conference and Exposition* (2022)
 
-#### 4. [Transformational Resistance for Multiple-Marginalized LGBTQIA+ Students with Incongruent Identity Development](https://peer.asee.org/36078)
+#### 4. [Transformational Resistance for Multiple-Marginalized LGBTQIA+ Students with Incongruent Identity Development](https://peer.asee.org/39148)
 
 Chou, V. X.-W.; <strong><u>Yang, J. A.</u></strong>; Bakka, B.; Borrego, M.. *Collaborative Network for Engineering and Computing Diversity (CoNECD)* (2022)
 
 #### 3. Student Panel: Understanding Queer Experiences in Engineering
 
-Bakka, B.; Jennings, M.; Rodriguez-Simmonds, H. E.; Clancy, S.; Pasek, A.; <strong><u>Yang, J. A.</u></strong>. *ASEE Annual Conference and Exposition* (2021)
+Bakka, B.; Jennings, M.; Rodriguez-Simmonds, H. E.; Clancy, S.; Pasek, A.; <strong><u>Yang, J. A.</u></strong>. *2021 ASEE Annual Conference and Exposition* (2021)
 
 #### 2. [Cultural Scripts, Space, and Identity: Perspectives of Two LGBTQ+ Engineering Students on Inclusive Spaces](https://peer.asee.org/36078)
 
