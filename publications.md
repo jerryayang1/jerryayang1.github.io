@@ -18,7 +18,7 @@ toc_levels: 2
 
   .publication-title {
     display: block;
-    font-size: 75%;
+    font-size: 125%;
   }
 
   .page__content > p {
