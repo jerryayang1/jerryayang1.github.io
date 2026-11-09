@@ -20,6 +20,15 @@ toc_levels: 2
     display: block;
     font-size: 75%;
   }
+
+  .page__content > p {
+    font-size: 65%;
+    font-weight: 400;
+  }
+
+  .page__content > p strong {
+    font-weight: 700;
+  }
 </style>
 
 
