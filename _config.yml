@@ -30,6 +30,9 @@ plugins:
 
 mathjax: true
 
+exclude:
+  - teaching.md
+
 defaults:
   - scope:
       path: ""

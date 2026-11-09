@@ -39,5 +39,7 @@ Bringing computational power closer to their data sources (e.g. sensors) can fac
 
 ### First-Generation/Low-Income Engineering Students and Internships
 
+
 ### LGBTQ+ Engineering Student Experiences
 
+LGBTQ+ engineering students remain underrepresented in engineering disciplines. How do their experiences of engineering differ from non-LGBTQ+ students, and how do we ensure equitable access to resources for both groups?

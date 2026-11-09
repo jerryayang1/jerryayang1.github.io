@@ -27,7 +27,7 @@ mathjax: true
 
 #### 8. Gamma Radiation Damage and Healing in Scaled Monolayer MoS$_2$ Nanoribbon Field-Effect Transistors
 
-<strong><u>Yang, J. A.</u></strong>; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.
+<strong><u>Yang, J. A.</u></strong>; Peña, T.; Wright, A.; Chaney, J. A.; Lee, Y.-M.; Lan, H.-Y.; Hoang, A. T.; Mannix, A. J.; Pop, E.; Daniel, D.; Taggart, J. L.; Stuart, S. C.; Bushmaker, A.. *under review*
 
 #### 7. [Scaling High-Performance Nanoribbon Transistors with Monolayer Transition Metal Dichalcogenides](https://doi.org/10.1038/s41565-026-02161-w)
 
