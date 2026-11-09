@@ -29,7 +29,7 @@ Microscopy images, process snapshots, and other pictures from the lab.
 **Instrument:** Nikon LV100ND Optical Microscope, Dark-Field<br>
 **Description:** Optical micrograph of monolayer two-dimensional (2D) molybdenum disulfide (MoS2) irradiated with high-energy gamma rays at a total ionizing dose of 4.5 Mrad(Si). MoS$_2$ is a promising next-generation 2D semiconductor that exhibits unique electronic and optical properties. In collaboration with The Aerospace Corporation, we study the radiation hardness of MoS$_2$ to evaluate its feasibility in space electronics. The image shows sharp blue outlines of triangular MoS$_2$ flakes, with bright spots indicating regions of very thick MoS$_2$. Bilayer islands and grain boundaries can also be seen inside the flakes. Bright blue specks on the edges of the triangles likely indicate damage/defect sites caused by radiation.<br>
 
-Note: Submitted to Stanford MRS Art of Science (2025), [view the gallery](https://mrs.groups.stanford.edu/art-science/art-science-2025#gallery).
+Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mrs.groups.stanford.edu/art-science/art-science-2025#gallery).
 
 ### Electron-beam patterning
 

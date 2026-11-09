@@ -30,7 +30,7 @@ pickleball, and trying niche hobbies.
 
 ## Education
 
-- Phd Electrical Engineering, Stanford University, Sep 2020 - Sep 2026
+- PhD Electrical Engineering, Stanford University, Sep 2020 - Sep 2026
 - MA Education, Stanford University, Jan 2022 - Jun 2023
 - BS Electrical and Computer Engineering, University of Texas at Austin, Aug 2016 - May 2020
 
@@ -38,3 +38,4 @@ pickleball, and trying niche hobbies.
 
 - The Aerospace Corporation, 2024-2026
 - Texas Instruments, 2020
+- Boumatic Robotics, 2016
