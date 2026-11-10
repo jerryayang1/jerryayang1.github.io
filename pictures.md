@@ -7,6 +7,11 @@ header:
   overlay_image: /assets/images/crystal.png
   overlay_filter: 0.5
 mathjax: true
+toc: true
+toc_sticky: true
+toc_label: "Jump to"
+toc_icon: "sitemap"
+toc_levels: 3
 ---
 
 ## Picture gallery

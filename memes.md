@@ -11,7 +11,7 @@ mathjax: true
 
 ## Meme gallery
 
-Memes from the lab. All content is original unless where stated.
+Memes from the lab, with AI-generated descriptions for maximum cringe. All content is original unless where stated.
 
 
 ![Tool tier list meme](/assets/memes/tooltierlist.png)
@@ -20,5 +20,6 @@ Memes from the lab. All content is original unless where stated.
 **Description:** A tier list of tools commonly encountered in the lab.<br>
 
 ![Who would win meme](/assets/memes/whowouldwin.png)
+
 **Credit:** Jerry A. Yang<br>
 **Description:** A laboratory evaporator faces off against a single strand of hair.<br>
