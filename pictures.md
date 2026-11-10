@@ -44,7 +44,15 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 
 **Title:** Silicon Dioxide Crucible<br>
 **Medium:** Silicon Dioxide<br>
+**Instrument:** Phone Camera
 **Description:** A silicon dioxide crucible glowing during electron-beam evaporation.<br>
+
+![Happy wafer](/assets/images/happywafer.jpg)
+
+**Title:** Happy Wafer<br>
+**Medium:** Silicon Wafers<br>
+**Instrument:** Phone Camera<br>
+**Description:** Silicon wafers arranged on a plate in a happy face.<br>
 
 ### Electron-beam patterning
 
