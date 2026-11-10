@@ -31,6 +31,21 @@ Microscopy images, process snapshots, and other pictures from the lab.
 
 Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mrs.groups.stanford.edu/art-science/art-science-2025#gallery).
 
+![Crystal structure image 3](/assets/images/crystal3.png)
+
+**Title:** Monolayer and Bilayer MoS$_2$<br>
+**Medium:** Chemical Vapor Deposition of MoS$_2$ on Silicon<br>
+**Instrument:** Optical Microscope<br>
+**Description:** Optical micrographs highlighting monolayer and bilayer MoS$_2$ islands, grain boundaries, and the silicon substrate.<br>
+
+### Process snapshots
+
+![Silicon dioxide crucible](/assets/images/sio2crucible.jpg)
+
+**Title:** Silicon Dioxide Crucible<br>
+**Medium:** Silicon Dioxide<br>
+**Description:** A silicon dioxide crucible glowing during electron-beam evaporation.<br>
+
 ### Electron-beam patterning
 
 ![Electron-beam pattern 1](/assets/images/ebpg1.png)
@@ -99,5 +114,3 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 **Medium:** Silicon<br>
 **Instrument:** Thermo-Fisher Helios DualBeam Scanning Electron Microscope<br>
 **Description:** DRIE-etched silicon sidewall; charge concentration brightens the scallop tips and obscures the wavy surface, making the sidewall appear to have sharp, ladder-like edges.<br>
-
-
