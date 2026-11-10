@@ -40,7 +40,7 @@ Note: Stanford MRS Art of Science (2025) finalist, [view the gallery](https://mr
 
 **Title:** Monolayer and Bilayer MoS$_2$<br>
 **Medium:** Chemical Vapor Deposition of MoS$_2$ on Silicon<br>
-**Instrument:** Optical Microscope<br>
+**Instrument:** Optical Microscope, (left) bright-field, (right) fluorescence<br>
 **Description:** Optical micrographs highlighting monolayer and bilayer MoS$_2$ islands, grain boundaries, and the silicon substrate.<br>
 
 ### Process snapshots
