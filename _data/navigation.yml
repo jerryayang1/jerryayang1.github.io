@@ -5,3 +5,5 @@ main:
     url: /projects/
   - title: "Cool Pictures"
     url: /pictures/
+  - title: "Memes"
+    url: /memes/

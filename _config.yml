@@ -6,7 +6,7 @@ minimal_mistakes_skin: "dark"   # air, contrast, dirt, neon, mint, sunrise...
 author:
   name: "Jerry A. Yang"
   bio: "Two-Dimensional Semiconductor Devices and Nanofabrication Engineer"
-  avatar: "/assets/images/JerryYang.png"
+  avatar: "/assets/headshot/JerryYang.png"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
